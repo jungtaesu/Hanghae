@@ -23,6 +23,6 @@ function create(num) {
     }
 }
 
-const addFive = create(5);
+const addFive = create(6);
 
 console.log(addFive(10))
