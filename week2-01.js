@@ -25,4 +25,4 @@ function create(num) {
 
 const addFive = create(6);
 
-console.log(addFive(10))
+console.log(addFive(11))
