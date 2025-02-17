@@ -34,7 +34,7 @@ class HttpError extends Error {
       });
   }
 
-  var test1 = async() => {
+  var test2 = async() => {
     await loadJson(`https://klassic-quote-api.mooo.com/v1/random-quote`)
         .then(res => {
             console.log(`${res.author}: ${res.quote}`);
