@@ -52,7 +52,7 @@ function createStudent(name: string, age: number, korean: number, math: number, 
 
   }
 
-  const a = createStudent('홍길동', 20, 100, 100, 100, 100, 100)
+  const a = createStudent('홍길동', 20, 100, 100, 110, 100, 100)
   
   printResult(a)
 
