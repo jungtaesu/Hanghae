@@ -1,7 +1,7 @@
 const x= 1;
 
 function outerFunc () {
-    const x = 103;
+    const x = 104;
     function innerFunc() {
         console.log(x);
     }
